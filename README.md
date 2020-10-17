@@ -8,18 +8,18 @@ Este es mi currículum
  
  Este es mi primer resultado en el navegador Opera
  
- ![Captura de resultados](https://github.com/Ninfaluis/curriculum/blob/master/4.jpg)
+ ![Captura de resultados](https://github.com/Ninfaluis/curriculum/blob/master/1.jpg)
  
  
  
  
  
   Este es mi segundo resultado en el navegador Explorer
- ![Captura de resultados](https://github.com/Ninfaluis/curriculum/blob/master/5.jpg)
+ ![Captura de resultados](https://github.com/Ninfaluis/curriculum/blob/master/2.jpg)
  
  
  
  
  
   Este es mi tercer resultado en el navegador Google Chrome
- ![Captura de resultados](https://github.com/Ninfaluis/curriculum/blob/master/6.jpg)
+ ![Captura de resultados](https://github.com/Ninfaluis/curriculum/blob/master/3.jpg)
